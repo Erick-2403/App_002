@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_002</string>
+
+    <string name="textview_titulo">Mantenimineto de Contactos</string>
+    <string name="edittext_codigo">Codigo: </string>
+    <string name="edittext_nombre">Nombre: </string>
+    <string name="edittext_apellido">Apellido: </string>
+    <string name="edittext_edad">Edad: </string>
+
+    <string name="button_insertar">Insertar</string>
+    <string name="button_buscar_codigo">Buscar Por Codigo</string>
+    <string name="button_eliminar">Eliminar</string>
+    <string name="button_modificar">Modificar</string>
+    <string name="button_lista_contactos">Lista de Contactos</string>
+
+</resources>
